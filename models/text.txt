@@ -1,0 +1,1 @@
+Under models ligger modellerna/scheman för sånt som ska skickas till db
